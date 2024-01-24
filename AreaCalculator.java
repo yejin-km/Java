@@ -4,7 +4,6 @@ public class AreaCalculator
 {
    public static void main(String[] args)
    {
-     
       String shape;
       double length;
       double width;
@@ -59,10 +58,8 @@ public class AreaCalculator
          //display the triangle area   
          area = .5 * base * height;
          System.out.printf("The area is: %.1f", area);
-      }
-          
-   }
-    
+      }        
+   }  
 }
       
       
