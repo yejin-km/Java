@@ -5,19 +5,19 @@ public class Game
    private Player player1;
    private Player player2;
 
-	/**
-	   constructor with 2 string arguments
-	*/
+   /**
+   constructor with 2 string arguments
+   */
    public Game(String name1, String name2)
    {
       player1 = new Player(name1);
       player2 = new Player(name2);
    }
 
-	/**
-	   deep copy constructor 
-	   @param game, copy game object
-	*/
+   /**
+   deep copy constructor 
+   @param game, copy game object
+   */
    public Game(Game game) 
    {
       player1 = new Player(game.player1);
