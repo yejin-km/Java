@@ -1,3 +1,5 @@
+// class assignment to display user bank balance depending on withdrawls, deposits, or fees
+
 public class BaseAccountMain 
 {
 	public static void main(String[] args) 
