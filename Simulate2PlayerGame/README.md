@@ -1,3 +1,5 @@
+# Simulating a 2 player game 
+
 each player guesses even or odd.
 
 dice is rolled.
