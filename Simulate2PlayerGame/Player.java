@@ -3,7 +3,7 @@ public class Player
    private String name;
    private int score;
 
-	/**
+ /**
    constructor
    @param name - the name of player
   */
