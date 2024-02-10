@@ -10,9 +10,9 @@ public class GameMain
 
 		Scanner scan = new Scanner(System.in);
    
-      //prompt user to enter their name
-		  do 
-      {
+    //prompt user to enter their name
+	  do 
+    {
 			System.out.println("Welcome to the Dandy Die Game!\n" + 
                               "This game requires 2 players.\n");
 
